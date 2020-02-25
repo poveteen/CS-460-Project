@@ -4,7 +4,7 @@
 
 I am an Undergraduate student of senior standing at [Wartburg College](https://www.wartburg.edu/) pursuing a degree in Computer Science and Actuarial Science. For my senior project, I wanted to research and puruse machine learning, and get to learn what various techniques are implemented to make a voice assistant work. After being introduced by Dr. John Zelle, and along with some research, I found [MycroftAI](https://mycroft.ai/)'s team that provided the [tools](https://github.com/MycroftAI) that I could use to create my own voice assistant. 
 
-This is completely a research-based project since I had litlle knowledge of machine learning, and no knowledge of the tools provided by MycroftAI. Thus, as I learn along, this page will provide further information regarding the things I have achieved thus far. 
+This is completely a research-based project since I had litlle knowledge of machine learning, and no knowledge of the tools provided by MycroftAI. Thus, as I learn along, this page will provide further information regarding the things I have achieved thus far. Everything provided by MycroftAI is open-sourced, and they encourage people to use their code. 
 
 I will utilize version control for this project because I might need to make some adjustments to the code provided by the MycroftAI's team in their repository(repo), and it will also serve as a way for me to document my work. Thus I am planning on using Git and also GitHub since I want to show the progress I've made.
 
@@ -47,43 +47,15 @@ This created my markdown readme file and also linked my local repo to [my online
 
 ### 3. mycroft-precise
 
+mycroft-precise is a tool based on TensorFlow that is provided by MycroftAI. Its basic functionality include tools that I can use to record wake-words and not-wake-words for my voice assistant. I can then use these recordings to train and create a model for my voice assistant that would make it recognize sound patterns when it is being called and wake up accordingly. This tool also lets me see the accuracy of my model, and at the end converts the model into a TensorFlow file. I created another [document](https://docs.google.com/document/d/17hs_4hXubngRJfpbfTIIGhwK1Zd5zbFIQTUSP3wU8Us/edit?usp=sharing) to list all the code and functionality of mycorft-precise.
 
 
 ### 4. DeepSpeech
 
-You can use the [editor on GitHub](https://github.com/shahzeb-jadoon/CS-460-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Also built on TensorFlow, DeepSpeech is a speech-to-text engine built by Mozilla. Mycroft and Mozilla are working in collaboration to make this engine better every day. I have [document](https://docs.google.com/document/d/1fbVyQC9dOY7ez9vVJb386isMwrKn9MkPNhKklMvT9gs/edit?usp=sharing) that lists the resources one might find useful to learn and use DeepSpeech. 
 
-Whenever you commit to this repo, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Support or Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shahzeb-jadoon/mycroft-project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions, comments, or concerns, you can email me at shahzeb.jadoon.sj@gmail.com
 
