@@ -52,7 +52,7 @@ mycroft-precise is a tool based on TensorFlow that is provided by MycroftAI. Its
 
 ### 4. DeepSpeech
 
-Also built on TensorFlow, DeepSpeech is a speech-to-text engine built by Mozilla. Mycroft and Mozilla are working in collaboration to make this engine better every day. I have [document](https://docs.google.com/document/d/1fbVyQC9dOY7ez9vVJb386isMwrKn9MkPNhKklMvT9gs/edit?usp=sharing) that lists the resources one might find useful to learn and use DeepSpeech. 
+Also built on TensorFlow, DeepSpeech is a speech-to-text engine built by Mozilla. Mycroft and Mozilla are working in collaboration to make this engine better every day. I have a [document](https://docs.google.com/document/d/1fbVyQC9dOY7ez9vVJb386isMwrKn9MkPNhKklMvT9gs/edit?usp=sharing) that lists the resources one might find useful to learn and use DeepSpeech. 
 
 
 ## Support or Contact
